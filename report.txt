@@ -1,0 +1,9 @@
+
+
+--------------------------<      Count Report      >--------------------------
+
+The function is successfully loaded and operated.
+Pattern Sequence  :  ( s s ) + a s s a s
+Default Function  :  [s->-1]  [s-> 0]  [a->-1]  [s-> 0]  [s-> 1] 
+                     [a-> 2]  [s-> 3] 
+Repeat Times      :  39
