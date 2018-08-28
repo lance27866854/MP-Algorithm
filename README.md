@@ -19,6 +19,6 @@ I add some functions to expand its scope. We can use the expression like "(a)+" 
 
 5. It can accept only one repeat part. For example, "s(s)+aa(s)+" is illegal.
 
-**Perform**
+## Perform
 
 <img width="482" alt="124" src="https://user-images.githubusercontent.com/41135423/44641850-c4e49400-a9fb-11e8-80be-0ce39859e94b.png">
