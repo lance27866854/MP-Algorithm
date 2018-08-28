@@ -1,6 +1,6 @@
 # MP-Algorithm
 
-**Morris-Pratt algorithm** is a faster way to find a pattern in text. Compared with BF algorithm, it is more effecient when we find a wrong character.Rather than break the loop and restart , there is a default function in MP algorithm which can tell the shortcut back-to position.Hence, we don't need to restart when we find a incorrect character.It is more benefit when the pattern have properties like below: repeated, similar elements, similar head and tail.
+**Morris-Pratt algorithm** is a faster way to find a pattern in text. Compared with BF algorithm, it is more effecient when we find a wrong character. Rather than break the loop and restart, there is a default function in MP algorithm which can tell the shortcut back-to position. Hence, we don't need to restart when we find a incorrect character. It is more benefit when the pattern is repeated, similar elements, and so on.
 
 You can check more detailed explanation: http://www-igm.univ-mlv.fr/~lecroq/string/node7.html 
 
